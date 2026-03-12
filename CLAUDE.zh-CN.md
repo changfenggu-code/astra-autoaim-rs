@@ -128,7 +128,7 @@ camera -> detect -> track/solve -> command -> serial tx
 # 更新 Cargo.toml 和所有 crate 的 Cargo.toml 中的版本号
 # 然后标记提交：
 git tag -a v0.1.0 -m "Release v0.1.0: 添加 ONNX Runtime 检测器支持"
-git push origin master --tags
+git push origin main --tags
 ```
 
 ### 版本历史

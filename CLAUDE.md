@@ -128,7 +128,7 @@ This project uses Semantic Versioning (SemVer):
 # Update version in Cargo.toml and all crate Cargo.toml files
 # Then tag the commit:
 git tag -a v0.1.0 -m "Release v0.1.0: Add ONNX Runtime detector support"
-git push origin master --tags
+git push origin main --tags
 ```
 
 ### Version History
