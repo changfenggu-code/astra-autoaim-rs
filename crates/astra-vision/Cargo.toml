@@ -1,0 +1,20 @@
+[package]
+name = "astra-vision"
+version.workspace = true
+edition.workspace = true
+
+[features]
+default = ["mock"]
+mock = []
+ort = ["dep:ndarray", "dep:ort"]
+
+[dependencies]
+anyhow.workspace = true
+astra-config = { path = "../astra-config" }
+astra-types = { path = "../astra-types" }
+ndarray = { workspace = true, optional = true }
+ort = { workspace = true, optional = true }
+thiserror.workspace = true
+
+[dev-dependencies]
+image = { version = "0.25", default-features = false, features = ["png", "jpeg"] }

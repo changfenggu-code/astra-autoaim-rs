@@ -1,0 +1,14 @@
+d:\projects\astra-autoaim-rs\target-ort-image-test\debug\deps\serde-fd0a8f3573f74539.d: D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\lib.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\integer128.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\private\mod.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\private\de.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\private\ser.rs d:\projects\astra-autoaim-rs\target-ort-image-test\debug\build\serde-e509b2a8907d6139\out/private.rs
+
+d:\projects\astra-autoaim-rs\target-ort-image-test\debug\deps\libserde-fd0a8f3573f74539.rlib: D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\lib.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\integer128.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\private\mod.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\private\de.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\private\ser.rs d:\projects\astra-autoaim-rs\target-ort-image-test\debug\build\serde-e509b2a8907d6139\out/private.rs
+
+d:\projects\astra-autoaim-rs\target-ort-image-test\debug\deps\libserde-fd0a8f3573f74539.rmeta: D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\lib.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\integer128.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\private\mod.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\private\de.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\private\ser.rs d:\projects\astra-autoaim-rs\target-ort-image-test\debug\build\serde-e509b2a8907d6139\out/private.rs
+
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\lib.rs:
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\integer128.rs:
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\private\mod.rs:
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\private\de.rs:
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\serde-1.0.228\src\private\ser.rs:
+d:\projects\astra-autoaim-rs\target-ort-image-test\debug\build\serde-e509b2a8907d6139\out/private.rs:
+
+# env-dep:OUT_DIR=d:\\projects\\astra-autoaim-rs\\target-ort-image-test\\debug\\build\\serde-e509b2a8907d6139\\out

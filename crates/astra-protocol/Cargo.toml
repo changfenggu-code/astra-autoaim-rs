@@ -1,0 +1,8 @@
+[package]
+name = "astra-protocol"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+astra-types = { path = "../astra-types" }
+thiserror.workspace = true

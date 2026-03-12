@@ -1,0 +1,7 @@
+[package]
+name = "astra-tracking"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+astra-types = { path = "../astra-types" }

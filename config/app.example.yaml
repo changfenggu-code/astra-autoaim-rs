@@ -1,0 +1,36 @@
+app:
+  mode: mock
+  log_level: info
+camera:
+  source: mock
+  device_index: 1
+  width: 1280
+  height: 1024
+  acquisition_timeout_ms: 100
+serial:
+  backend: mock
+  debug: 0
+  read_device: /dev/ttyUSB0
+  write_device: /dev/ttyUSB0
+  baud_read: 115200
+  baud_write: 115200
+  read_timeout_ms: 10
+  write_timeout_ms: 10
+  read_chunk_size: 64
+  protocol:
+    tx_header: 67
+    rx_header: 69
+    frame_footer: 255
+    tx_payload_len: 10
+    rx_payload_len: 6
+detector:
+  backend: mock
+  model_path: models/best.onnx
+  confidence_threshold: 0.5
+  input_width: 640
+  input_height: 640
+runtime:
+  frame_buffer_depth: 3
+  detection_channel_depth: 2
+  command_slot_depth: 1
+  mock_cycles: 8

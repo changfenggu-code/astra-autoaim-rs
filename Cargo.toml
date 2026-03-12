@@ -1,0 +1,32 @@
+[workspace]
+members = [
+    "crates/astra-app",
+    "crates/astra-types",
+    "crates/astra-config",
+    "crates/astra-protocol",
+    "crates/astra-io",
+    "crates/astra-vision",
+    "crates/astra-tracking",
+    "crates/astra-ballistics",
+    "crates/astra-camera-gx",
+    "crates/astra-runtime",
+]
+resolver = "2"
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+
+[workspace.dependencies]
+anyhow = "1"
+thiserror = "2"
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter", "fmt"] }
+arc-swap = "1"
+crossbeam-channel = "0.5"
+parking_lot = "0.12"
+serialport = "4"
+ndarray = "0.17"
+ort = { version = "=2.0.0-rc.12", default-features = false, features = ["std", "ndarray", "load-dynamic", "api-24"] }

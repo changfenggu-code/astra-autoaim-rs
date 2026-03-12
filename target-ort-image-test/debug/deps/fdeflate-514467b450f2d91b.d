@@ -1,0 +1,11 @@
+d:\projects\astra-autoaim-rs\target-ort-image-test\debug\deps\fdeflate-514467b450f2d91b.d: D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\lib.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\compress.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\decompress.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\huffman.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\tables.rs
+
+d:\projects\astra-autoaim-rs\target-ort-image-test\debug\deps\libfdeflate-514467b450f2d91b.rlib: D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\lib.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\compress.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\decompress.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\huffman.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\tables.rs
+
+d:\projects\astra-autoaim-rs\target-ort-image-test\debug\deps\libfdeflate-514467b450f2d91b.rmeta: D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\lib.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\compress.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\decompress.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\huffman.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\tables.rs
+
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\lib.rs:
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\compress.rs:
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\decompress.rs:
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\huffman.rs:
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\fdeflate-0.3.7\src\tables.rs:

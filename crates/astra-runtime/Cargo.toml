@@ -1,0 +1,24 @@
+[package]
+name = "astra-runtime"
+version.workspace = true
+edition.workspace = true
+
+[features]
+default = []
+gx-camera = ["astra-camera-gx/gx"]
+ort-detector = ["astra-vision/ort"]
+
+[dependencies]
+anyhow.workspace = true
+crossbeam-channel.workspace = true
+tracing.workspace = true
+astra-ballistics = { path = "../astra-ballistics" }
+astra-camera-gx = { path = "../astra-camera-gx" }
+astra-config = { path = "../astra-config" }
+astra-io = { path = "../astra-io" }
+astra-types = { path = "../astra-types" }
+astra-tracking = { path = "../astra-tracking" }
+astra-vision = { path = "../astra-vision" }
+
+[dev-dependencies]
+astra-types = { path = "../astra-types" }

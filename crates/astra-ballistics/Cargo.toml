@@ -1,0 +1,8 @@
+[package]
+name = "astra-ballistics"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+anyhow.workspace = true
+astra-types = { path = "../astra-types" }

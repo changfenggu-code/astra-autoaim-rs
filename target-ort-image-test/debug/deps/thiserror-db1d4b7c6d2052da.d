@@ -1,0 +1,14 @@
+d:\projects\astra-autoaim-rs\target-ort-image-test\debug\deps\thiserror-db1d4b7c6d2052da.d: D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\lib.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\aserror.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\display.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\var.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\private.rs d:\projects\astra-autoaim-rs\target-ort-image-test\debug\build\thiserror-538ec6d06a9d4a0b\out/private.rs
+
+d:\projects\astra-autoaim-rs\target-ort-image-test\debug\deps\libthiserror-db1d4b7c6d2052da.rlib: D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\lib.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\aserror.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\display.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\var.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\private.rs d:\projects\astra-autoaim-rs\target-ort-image-test\debug\build\thiserror-538ec6d06a9d4a0b\out/private.rs
+
+d:\projects\astra-autoaim-rs\target-ort-image-test\debug\deps\libthiserror-db1d4b7c6d2052da.rmeta: D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\lib.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\aserror.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\display.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\var.rs D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\private.rs d:\projects\astra-autoaim-rs\target-ort-image-test\debug\build\thiserror-538ec6d06a9d4a0b\out/private.rs
+
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\lib.rs:
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\aserror.rs:
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\display.rs:
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\var.rs:
+D:\Scoop\persist\rustup\.cargo\registry\src\rsproxy.cn-e3de039b2554c837\thiserror-2.0.18\src\private.rs:
+d:\projects\astra-autoaim-rs\target-ort-image-test\debug\build\thiserror-538ec6d06a9d4a0b\out/private.rs:
+
+# env-dep:OUT_DIR=d:\\projects\\astra-autoaim-rs\\target-ort-image-test\\debug\\build\\thiserror-538ec6d06a9d4a0b\\out

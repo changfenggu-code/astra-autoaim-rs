@@ -1,0 +1,16 @@
+[package]
+name = "astra-app"
+version.workspace = true
+edition.workspace = true
+
+[features]
+default = []
+gx-camera = ["astra-runtime/gx-camera"]
+ort-detector = ["astra-runtime/ort-detector"]
+
+[dependencies]
+anyhow.workspace = true
+tracing.workspace = true
+tracing-subscriber.workspace = true
+astra-config = { path = "../astra-config" }
+astra-runtime = { path = "../astra-runtime" }

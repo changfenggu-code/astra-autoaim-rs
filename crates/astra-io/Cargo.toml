@@ -1,0 +1,13 @@
+[package]
+name = "astra-io"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+anyhow.workspace = true
+astra-config = { path = "../astra-config" }
+astra-protocol = { path = "../astra-protocol" }
+astra-types = { path = "../astra-types" }
+parking_lot.workspace = true
+serialport.workspace = true
+thiserror.workspace = true
