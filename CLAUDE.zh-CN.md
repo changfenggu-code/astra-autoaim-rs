@@ -111,3 +111,27 @@ camera -> detect -> track/solve -> command -> serial tx
 
 - 本文件（CLAUDE.zh-CN.md）与英文版 CLAUDE.md 需同步更新
 - 任何对项目架构、命令、配置或 crate 职责的修改都应同时反映在两个文件中
+
+## 版本管理
+
+本项目使用语义化版本控制（Semantic Versioning，SemVer）：
+
+| 版本 | 递增 | 描述 |
+|------|------|------|
+| `0.0.x` | patch | Bug 修复、小改动 |
+| `0.x.0` | minor | 新功能、功能性添加 |
+| `x.0.0` | major | 破坏性变更、重大发布 |
+
+### 发布流程
+
+```bash
+# 更新 Cargo.toml 和所有 crate 的 Cargo.toml 中的版本号
+# 然后标记提交：
+git tag -a v0.1.0 -m "Release v0.1.0: 添加 ONNX Runtime 检测器支持"
+git push origin master --tags
+```
+
+### 版本历史
+
+- `v0.0.1` - 初始项目搭建，包含模拟实现
+- `v0.1.0` - ONNX Runtime 检测器集成

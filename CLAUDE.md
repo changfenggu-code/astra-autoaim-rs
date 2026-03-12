@@ -111,3 +111,27 @@ The system is designed for testability without hardware:
 
 - This file should be kept in sync with the Chinese version: `CLAUDE.zh-CN.md`
 - Any changes to project architecture, commands, configuration, or crate responsibilities should be reflected in both files
+
+## Version Management
+
+This project uses Semantic Versioning (SemVer):
+
+| Version | Increment | Description |
+|---------|-----------|-------------|
+| `0.0.x` | patch | Bug fixes, small changes |
+| `0.x.0` | minor | New features, functional additions |
+| `x.0.0` | major | Breaking changes, significant releases |
+
+### Release Workflow
+
+```bash
+# Update version in Cargo.toml and all crate Cargo.toml files
+# Then tag the commit:
+git tag -a v0.1.0 -m "Release v0.1.0: Add ONNX Runtime detector support"
+git push origin master --tags
+```
+
+### Version History
+
+- `v0.0.1` - Initial project setup with mock implementations
+- `v0.1.0` - ONNX Runtime detector integration
